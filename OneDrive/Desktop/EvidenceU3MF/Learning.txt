@@ -1,0 +1,1 @@
+In this class, I learned a lot about the uses and commands that can be given to the GitHub platform. I found it very useful for my career and, in general, for the working world. There is still more to learn, but for now, I know the commands to open Git Bash, how to enter the terminal, and how to upload files or share them with other Git users.
